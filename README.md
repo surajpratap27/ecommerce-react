@@ -1,3 +1,3 @@
 # Ecommerce - ReactJs
 
-Preview: https://ecommerce-react-olive.vercel.app/
+Preview: https://ecommerce-react-wine-psi.vercel.app/
